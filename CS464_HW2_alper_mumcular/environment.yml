@@ -1,0 +1,8 @@
+name: cs464_hw2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy=1.24.2
+  - Pillow=9.4.0
+  - notebook=6.5.4
